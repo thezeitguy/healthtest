@@ -1,0 +1,29 @@
+{
+  "_aerobatic": {
+    "build": {
+      "engine": "hugo",
+      "themeRepo": "https://github.com/nraboy/hugo-phlat-theme"
+    }
+  }
+}
+
+
+{
+  "_aerobatic": {
+    "router": [
+      {
+        "module": "basic-auth",
+        "options": {
+          "username": "$CLIENT_USERNAME",
+          "password": "$CLIENT_PASSWORD",
+          "loginPage": "login/index.html",
+          "maxFailedLogins": 5,
+          "failedLoginPeriod": 600
+        }
+      },
+      {
+        "module": "webpage"
+      }
+    ]
+  }
+}
