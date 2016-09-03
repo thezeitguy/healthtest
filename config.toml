@@ -4,3 +4,51 @@ title = "Healthsquare"
 newContentEditor = "nano"
 theme = "hugo-phlat-theme"
 pygmentsStyle = "native"
+
+[permalinks]
+    post = "/:year/:month/:slug/"
+    page = "/:slug/"
+ 
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[[menu.header]]
+    name = "Home"
+    weight = 1
+    url = "/"
+ 
+[[menu.header]]
+    name = "Resources"
+    weight = 2
+    url = "/resources/"
+ 
+[[menu.header]]
+    name = "Contact"
+    weight = 3
+    url = "/contact/"
+    
+    
+    
+[[menu.footer]]
+    name = "Privacy Policy"
+    weight = 1
+    url = "/privacy-policy/"
+ 
+[[menu.footer]]
+    name = "Sponsors"
+    weight = 2
+    url = "/sponsors/"
+    
+[params]
+    keywords = ["default", "keywords", "if", "no", "front", "matter"]
+    description = "A description that will appear as a default if front matter does not exist"
+
+    google_analytics = "UA-XXXXXXX-YY"
+    google_adsense = "ca-pub-XXXXXXXX"
+    disqus = "site_name_here"
+    twitter = "https://www.twitter.com/nraboy"
+    googleplus = ""
+    linkedin = ""
+    youtube = ""
+    paypal = ""
