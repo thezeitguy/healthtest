@@ -1,17 +1,25 @@
-baseurl = "https://www.healthsquare.com.au"
+baseurl = "/"
 languageCode = "en-us"
 newContentEditor = "nano"
 pygmentsStyle = "native"
 theme = "hugo-phlat-theme"
 title = "Healthsquare"
 [[menu.footer]]
-name = "Privacy Policy"
-url = "/privacy-policy/"
+name = "About"
+url = "/about/"
 weight = 1
 [[menu.footer]]
-name = "Sponsors"
-url = "/sponsors/"
+name = "Advertise"
+url = "/advertise/"
 weight = 2
+[[menu.footer]]
+name = "Privacy Policy"
+url = "/privacy-policy/"
+weight = 4
+[[menu.footer]]
+name = "Contact"
+url = "/contact/"
+weight = 3
 [[menu.header]]
 name = "Home"
 url = "/"
@@ -25,7 +33,7 @@ name = "Contact"
 url = "/contact/"
 weight = 3
 [params]
-description = "Innovation and business opportunities "
+description = "Innovation and opportunities in primary care"
 disqus = "site_name_here"
 google_adsense = "ca-pub-XXXXXXXX"
 google_analytics = "UA-XXXXXXX-YY"
