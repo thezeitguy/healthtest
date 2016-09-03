@@ -13,13 +13,13 @@ name = "Advertise"
 url = "/advertise/"
 weight = 2
 [[menu.footer]]
-name = "Privacy Policy"
-url = "/privacy-policy/"
-weight = 4
-[[menu.footer]]
 name = "Contact"
 url = "/contact/"
 weight = 3
+[[menu.footer]]
+name = "Privacy Policy"
+url = "/privacy-policy/"
+weight = 4
 [[menu.header]]
 name = "Home"
 url = "/"
