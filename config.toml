@@ -28,10 +28,6 @@ weight = 1
 name = "Resources"
 url = "/resources/"
 weight = 2
-[[menu.header]]
-name = "Contact"
-url = "/contact/"
-weight = 3
 [params]
 description = "Innovation and opportunities in primary care"
 disqus = "site_name_here"
@@ -45,7 +41,7 @@ twitter = "https://www.twitter.com/"
 youtube = ""
 [permalinks]
 page = "/:slug/"
-post = "/:year/:month/:slug/"
+news = "/:year/:month/:slug/"
 [taxonomies]
 category = "categories"
 tag = "tags"
