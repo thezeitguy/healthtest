@@ -1,13 +1,12 @@
 +++
-author = "author"
-categories = ["category1", "category2"]
-date = "2016-09-04T00:01:51+10:00"
+author = ""
+categories = ["Legal"]
+date = "2016-09-04T00:01:00+00:00"
 description = "description"
 draft = false
-slug = "privacy"
-tags = ["tag1", "tag2"]
-title = "privacy policy"
+slug = "privacy-polcy"
+tags = []
+title = "Privacy Policy"
 
 +++
-
 Privacy Policy
