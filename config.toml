@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.healthsquare.com.au"
 languageCode = "en-us"
 newContentEditor = "nano"
 pygmentsStyle = "native"
@@ -33,7 +33,7 @@ googleplus = ""
 keywords = ["default", "keywords", "if", "no", "front", "matter"]
 linkedin = ""
 paypal = ""
-twitter = "https://www.twitter.com/nraboy"
+twitter = "https://www.twitter.com/"
 youtube = ""
 [permalinks]
 page = "/:slug/"
