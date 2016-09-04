@@ -1,4 +1,4 @@
-baseurl = "http://healthsquare.com.au/"
+baseurl = "https://healthsquare.aerobatic.io"
 languageCode = "en-us"
 newContentEditor = "nano"
 pygmentsStyle = "native"
