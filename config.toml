@@ -4,6 +4,7 @@ newContentEditor = "nano"
 pygmentsStyle = "native"
 theme = "hugo-phlat-theme"
 title = "Healthsquare"
+canonifyurls = true
 [[menu.footer]]
 name = "About"
 url = "/about/"
@@ -40,8 +41,15 @@ paypal = ""
 twitter = "https://www.twitter.com/"
 youtube = ""
 [permalinks]
-page = "/:slug/"
-news = "/:year/:month/:slug/"
+page = "/:title/"
+resource = "/section/:slug/"
+news = "/:section/:year/:month/:day/:slug/"
 [taxonomies]
 category = "categories"
 tag = "tags"
+ignoreFiles = [ "\\.foo$", "\\.boo$" ]
+[blackfriday]
+  angledQuotes = true
+  fractions = false
+  plainIDAnchors = true
+  extensions = ["hardLineBreak"]
