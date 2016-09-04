@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Healthsquare</title>
+    <link>http://healthsquare.com.au/news/</link>
+    <description>Recent content in News on Healthsquare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2016 00:03:14 +1000</lastBuildDate>
+    <atom:link href="http://healthsquare.com.au/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>gatekeeper</title>
+      <link>http://healthsquare.com.au/news/2016/09/04/gatekeeper/</link>
+      <pubDate>Sun, 04 Sep 2016 00:03:14 +1000</pubDate>
+      
+      <guid>http://healthsquare.com.au/news/2016/09/04/gatekeeper/</guid>
+      <description>&lt;p&gt;GP Gatekeeper&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mentalheatlh</title>
+      <link>http://healthsquare.com.au/news/2016/09/03/mental-heatlh/</link>
+      <pubDate>Sat, 03 Sep 2016 22:44:05 +1000</pubDate>
+      
+      <guid>http://healthsquare.com.au/news/2016/09/03/mental-heatlh/</guid>
+      <description>&lt;p&gt;mental health&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

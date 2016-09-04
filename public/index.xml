@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthsquare</title>
+    <link>http://healthsquare.com.au/</link>
+    <description>Recent content on Healthsquare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2016 00:01:00 +0000</lastBuildDate>
+    <atom:link href="http://healthsquare.com.au/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://healthsquare.com.au/privacy-policy/</link>
+      <pubDate>Sun, 04 Sep 2016 00:01:00 +0000</pubDate>
+      
+      <guid>http://healthsquare.com.au/privacy-policy/</guid>
+      <description>&lt;p&gt;Privacy Policy&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://healthsquare.com.au/contact-us/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://healthsquare.com.au/contact-us/</guid>
+      <description>&lt;p&gt;Healthsquare&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Healthsquare</title>
+      <link>http://healthsquare.com.au/about-healthsquare/</link>
+      <pubDate>Sat, 03 Sep 2016 22:43:00 +0000</pubDate>
+      
+      <guid>http://healthsquare.com.au/about-healthsquare/</guid>
+      <description>&lt;p&gt;that would be right&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advertise</title>
+      <link>http://healthsquare.com.au/advertise/</link>
+      <pubDate>Sat, 03 Sep 2016 22:43:00 +0000</pubDate>
+      
+      <guid>http://healthsquare.com.au/advertise/</guid>
+      <description>&lt;p&gt;advertise with us&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>directory</title>
+      <link>http://healthsquare.com.au/section/directory/</link>
+      <pubDate>Sun, 04 Sep 2016 08:05:15 +1000</pubDate>
+      
+      <guid>http://healthsquare.com.au/section/directory/</guid>
+      <description>&lt;p&gt;directory&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tenders</title>
+      <link>http://healthsquare.com.au/section/tenders/</link>
+      <pubDate>Sun, 04 Sep 2016 08:04:01 +1000</pubDate>
+      
+      <guid>http://healthsquare.com.au/section/tenders/</guid>
+      <description>&lt;p&gt;tenders now&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>subscribe</title>
+      <link>http://healthsquare.com.au/subscribe/</link>
+      <pubDate>Sun, 04 Sep 2016 08:03:14 +1000</pubDate>
+      
+      <guid>http://healthsquare.com.au/subscribe/</guid>
+      <description>&lt;p&gt;subscribe to our newsletters&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gatekeeper</title>
+      <link>http://healthsquare.com.au/news/2016/09/04/gatekeeper/</link>
+      <pubDate>Sun, 04 Sep 2016 00:03:14 +1000</pubDate>
+      
+      <guid>http://healthsquare.com.au/news/2016/09/04/gatekeeper/</guid>
+      <description>&lt;p&gt;GP Gatekeeper&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mentalheatlh</title>
+      <link>http://healthsquare.com.au/news/2016/09/03/mental-heatlh/</link>
+      <pubDate>Sat, 03 Sep 2016 22:44:05 +1000</pubDate>
+      
+      <guid>http://healthsquare.com.au/news/2016/09/03/mental-heatlh/</guid>
+      <description>&lt;p&gt;mental health&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
