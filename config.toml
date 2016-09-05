@@ -1,4 +1,4 @@
-baseurl = "https://healthsquare.aerobatic.io"
+baseurl = "/"
 languageCode = "en-us"
 newContentEditor = "nano"
 pygmentsStyle = "native"
@@ -41,9 +41,8 @@ paypal = ""
 twitter = "https://www.twitter.com/"
 youtube = ""
 [permalinks]
-page = "/:title/"
-resource = "/section/:slug/"
-news = "/:section/:year/:month/:day/:slug/"
+page = "/:slug/"
+post = "/news/:year:month:day/:slug/"
 [taxonomies]
 category = "categories"
 tag = "tags"

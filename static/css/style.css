@@ -1,13 +1,13 @@
 body {
     background-color: #ffffff;
     padding-top: 100px;
+    color: 000000;
 }
-p {
-    font-size: 16px;
-	color: #222;
-	font-weight: 400;
-	font-family: Arial, Helvetica, sans-serif;	
+
+h1, h2, h3, h4, h5, h6 {
+	color: #077887;
 }
+
 /*
  * START NAVIGATION
  */
@@ -18,28 +18,28 @@ p {
 }
 
 .navbar-default .navbar-brand {
-    color: #003e69;
-    font-weight: 400;
-    font-size: 1.75em;
+    color: #077887;
+    font-weight: 500;
+    font-size: 22px;
 }
 
 .nav>li:hover {
-    border-bottom: 2px solid #003e69;
+    border-bottom: 2px solid #077887;
+    border-top: 2px solid transparent;
 }
 
 .nav>li {
-    border-top: 4px solid transparent;
-    color: #003e69;
-    font-weight: 400;
-    font-size: 0.9em;
-    margin: 0 10px;
+    border-bottom: 2px solid transparent;
+    margin: 0 20px;
 }
 
 .nav>li.active {
-    border-bottom: 4px solid #003e69;
+    border-bottom: 2px solid #077887;
 }
 
 .navbar-nav>li>a {
+    color: #077887;
+    font-weight: 500;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 0px;
@@ -48,7 +48,13 @@ p {
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     background-color: transparent;
+    color: #077887;
 }
+
+.navbar-toggle {
+    border-color: #077887;
+}
+
 /*
  * END NAVIGATION
  */
@@ -66,31 +72,29 @@ p {
     background-color: #ffffff;
     border: 1px solid #e9e9e9;
     padding: 40px;
-    border-bottom: 1px solid #003e69;
+    border-bottom: 1px solid #077887;
 }
 
 .content-card .meta a {
-    color: #003e69;
-    font-size: 0.75em;
+    color: #077887;
 }
 
 .content-card .share li {
     padding-left: 0px;
     padding-right: 0px;
-    font-size: 0.75em;
-    color: #003e69;
+    font-size: 12px;
 }
 
 .content-card .share a {
     padding: 7px 10px;
     margin-bottom: 5px;
     display: block;
+    color: #ffffff;
+    font-weight: bold;
 }
 
 .content-card .share a:hover {
     text-decoration: none;
-    font-weight: bold;
-
 }
 
 .content-card .facebook-share a { background-color: #425F9C; }
@@ -110,8 +114,7 @@ p {
 .content-card h1 {
     margin-bottom: 20px;
     margin-top: 0px;
-    font-size: 2em;
-    color: #003e69;
+    font-size: 30px;
 }
 
 .content-card h1 a {
@@ -121,13 +124,13 @@ p {
 .content-card h2 {
     margin-bottom: 15px;
     margin-top: 15px;
-    font-size: 1.875em
+    font-size: 22px
 }
 
 .content-card h3 {
     margin-bottom: 15px;
     margin-top: 15px;
-    font-size: 1.5em;
+    font-size: 18px
 }
 
 .content-card img {
@@ -136,8 +139,8 @@ p {
 
 .content-card .list-inline {
     margin-bottom: 20px;
-    font-size: 0.75em
-    color: #003e69;
+    font-size: 12px;
+    color: #077887;
 }
 
 .content-card .btn {
@@ -148,31 +151,31 @@ p {
 .content-card .tags li {
     padding-left: 0px;
     padding-right: 0px;
+    font-size: 12px;
 }
 
 .content-card .tags a {
-    background-color: #003e69;
-    padding: 3px 5px;
+    background-color: #dddddd;
+    padding: 1px 10px;
     margin-bottom: 5px;
     display: block;
     color: #ffffff;
 }
 
 .content-card .tags a:hover {
-    background-color: #fff;
-    color: #003e69;
+    background-color: #077887;
     text-decoration: none;
 }
 
 .btn-custom {
-    color: #003e69;
-    background-color: #ffffff;
-    border: 1px solid #003e69;
+    color: #ffffff;
+    background-color: #077887;
+    border: 1px solid #077887;
 }
 
 .btn-custom.focus, .btn-custom:focus, .btn-custom:hover {
     color: #ffffff;
-    background-color: #003e69;
+    background-color: #077887;
     transition: background-color 0.3s linear;
 }
 
@@ -180,7 +183,7 @@ p {
     background-color: #ffffff;
     border: 1px solid #e9e9e9;
     padding: 20px;
-    border-bottom: 3px solid #003e69;
+    border-bottom: 1px solid #077887;
 }
 
 .card h2 {
@@ -192,7 +195,7 @@ p {
     text-transform: uppercase;
     margin-bottom: 15px;
     margin-top: 0px;
-    font-size: 100%;
+    font-size: 14px;
 }
 
 .posts-recent li {
@@ -206,20 +209,18 @@ p {
 }
 
 .posts-recent li a {
-    color: #003269;
+    color: #333333;
 }
 
 .posts-recent li a:hover {
     text-decoration: underline;
-    color: #003e69;
 }
 
 footer {
-    border-top: 1px solid #337ab7;
+    background-color: #dddddd;
     margin-top: 20px;
-    padding-top: 15px;
-    padding-bottom: 0px;
-    font-size: 0.75em;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 footer .container .row:not(:last-of-type) {
@@ -277,13 +278,12 @@ footer .social-media .fa {
 }
 
 footer a {
-    color: #003e69;
-    font-weight: 500;
+    color: #333333;
 }
 
 footer a:hover {
     text-decoration: underline;
-        font-weight: bold;
+    color: #333333;
 }
 
 .fa {
@@ -295,7 +295,7 @@ footer a:hover {
     bottom: -82px;
     right: 10px;
 }
-#back-to-top.affix {
+back-to-top.affix {
     position: fixed; /* keeps it on the bottom once in view */
     bottom: 18px;
     right: 10px;

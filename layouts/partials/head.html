@@ -17,11 +17,10 @@
     {{ with .Site.Params.favicon }}
         <link rel="icon" type="image/png" href="{{ . }}" sizes="196x196" />
     {{ end }}
-    <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/highlightjs-themes/androidstudio.css" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/phlat.css" />
+    <link href="{{ .RSSlink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />    
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css" />
     {{ if not (in (printf "%#v" .Site.BaseURL) "localhost") }}
         {{ with .Site.Params.google_adsense }}
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -31,13 +30,6 @@
                     enable_page_level_ads: true
                 });
             </script>
-            <script src="https://teletext.io/js/v2/latest/txt-min.js"></script>
-<script>
-var options = {
-  id: "6c9fa85d-4472-441e-ac4f-557b166ebf4a"
-};
-Txt.render(options);
-</script>
         {{ end }}
     {{ end }}
 </head>
