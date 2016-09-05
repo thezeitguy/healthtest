@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legal on Healthsquare</title>
+    <link>/categories/legal/</link>
+    <description>Recent content in Legal on Healthsquare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2016 00:01:00 +0000</lastBuildDate>
+    <atom:link href="/categories/legal/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy-polcy/</link>
+      <pubDate>Sun, 04 Sep 2016 00:01:00 +0000</pubDate>
+      
+      <guid>/privacy-polcy/</guid>
+      <description>&lt;p&gt;Privacy Policy&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

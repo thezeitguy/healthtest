@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category1 on Healthsquare</title>
+    <link>/categories/category1/</link>
+    <description>Recent content in Category1 on Healthsquare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Us</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 04 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>&lt;p&gt;Healthsquare&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>gatekeeper</title>
+      <link>/news/20160904/gatekeeper/</link>
+      <pubDate>Sun, 04 Sep 2016 00:03:14 +1000</pubDate>
+      
+      <guid>/news/20160904/gatekeeper/</guid>
+      <description>&lt;p&gt;GP Gatekeeper&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mentalheatlh</title>
+      <link>/news/20160903/mental-heatlh/</link>
+      <pubDate>Sat, 03 Sep 2016 22:44:05 +1000</pubDate>
+      
+      <guid>/news/20160903/mental-heatlh/</guid>
+      <description>&lt;p&gt;mental health&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
