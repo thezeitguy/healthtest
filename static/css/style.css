@@ -19,8 +19,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-default .navbar-brand {
     color: #077887;
+<<<<<<< HEAD
     font-weight: 500;
     font-size: 28px;
+=======
+    font-weight: 400;
+    font-size: 30px;
+>>>>>>> 58e192fd8c8a5f98edf247815ff5c1ff6a9dafe8
 }
 
 .nav>li:hover {
@@ -30,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav>li {
     border-bottom: 2px solid transparent;
-    margin: 0 20px;
+    margin: 0 10px;
 }
 
 .nav>li.active {
@@ -39,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar-nav>li>a {
     color: #077887;
-    font-weight: 500;
+    font-weight: 400;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 0px;
