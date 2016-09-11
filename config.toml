@@ -3,34 +3,38 @@ languageCode = "en-us"
 newContentEditor = "nano"
 pygmentsStyle = "native"
 theme = "hugo-phlat-theme"
-title = "Healthsquare"
+title = "HEALTHSquare"
 canonifyurls = true
+
 [[menu.footer]]
-name = "About"
-url = "/about/"
-weight = 1
-[[menu.footer]]
-name = "Advertise"
-url = "/advertise/"
-weight = 2
-[[menu.footer]]
-name = "Contact"
-url = "/contact/"
-weight = 3
-[[menu.footer]]
-name = "Privacy Policy"
-url = "/privacy-policy/"
-weight = 4
-[[menu.header]]
 name = "Home"
 url = "/"
 weight = 1
-[[menu.header]]
-name = "Resources"
-url = "/resources/"
-weight = 2
+
+
+[[menu.footer]]
+name = "About"
+url = "/about/"
+weight = 3
+[[menu.footer]]
+name = "Advertise"
+url = "/advertise/"
+weight = 4
+[[menu.footer]]
+name = "Contact"
+url = "/contact/"
+weight = 5
+[[menu.footer]]
+name = "Subscribe"
+url = "/subscribe/"
+weight = 6
+[[menu.footer]]
+name = "Privacy Policy"
+url = "/privacy-policy/"
+weight = 7
+
 [params]
-description = "Innovation and opportunities in primary care"
+description = "New business opportunities in primary care"
 disqus = "site_name_here"
 google_adsense = "ca-pub-XXXXXXXX"
 google_analytics = "UA-XXXXXXX-YY"
