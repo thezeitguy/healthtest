@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on HEALTHSquare</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on HEALTHSquare</description>
+    <title>Briefing on HEALTHSquare</title>
+    <link>/categories/briefing/</link>
+    <description>Recent content in Briefing on HEALTHSquare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2016 00:03:14 +1000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>gatekeeper</title>
-      <link>/news/20160904/gatekeeper/</link>
-      <pubDate>Sun, 04 Sep 2016 00:03:14 +1000</pubDate>
-      
-      <guid>/news/20160904/gatekeeper/</guid>
-      <description>&lt;p&gt;GP Gatekeeper&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 03 Sep 2016 22:44:05 +1000</lastBuildDate>
+    <atom:link href="/categories/briefing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Briefing: Health Care Homes</title>
@@ -97,35 +87,6 @@ Health care practitioners will benefit from a payment system that allows them th
 Investing in prevention and management of chronic disease keeps people healthier and out of hospital, easing the strain on the hospital system, and increasing efficiency across the wider health system.&lt;br /&gt;
 How much will this cost?&lt;br /&gt;
 This measure will cost $21.3 million from 2015–16 to 2018–19.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Health care homes to be rolled out from -changed in health care home trial</title>
-      <link>/news/20160903/health-care-home/</link>
-      <pubDate>Sat, 03 Sep 2016 22:44:05 +1000</pubDate>
-      
-      <guid>/news/20160903/health-care-home/</guid>
-      <description>&lt;p&gt;**The Federal Government&amp;rsquo;s new health care home model for people living with chronic conditions will be rolled out across 10 regions from 2017.&lt;br /&gt;
-South Eastern Melbourne&lt;/p&gt;
-
-&lt;p&gt;&amp;laquo;The Health Care Homes model has to work for rural and remote communities. This has to work equally as well&lt;br /&gt;
-for the patient living in Thargomindah as it does for the patient living in inner-city Sydney.&lt;br /&gt;
-&amp;laquo;The model must be flexible enough to meet the unique needs of small rural and remote communities. And it&lt;br /&gt;
-must reflect the fact that the provision of healthcare works differently in rural and remote areas than it does in&lt;br /&gt;
-urban settings.&lt;br /&gt;
-&amp;laquo;A Health Care Homes approach to chronic care is something that RDAA has been calling for and strongly&lt;br /&gt;
-supports, but it must improve access to care for rural and remote Australians&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/news/10101/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/news/10101/</guid>
-      <description>&lt;p&gt;jkjk&lt;/p&gt;
 </description>
     </item>
     
