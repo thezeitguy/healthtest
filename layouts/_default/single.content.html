@@ -8,8 +8,10 @@
                 {{ end }}
             </ul>
         {{ end }}
-        {{ partial "widgets/content/share.html" . }}
         {{ .Content }}
+        
+        {{ partial "widgets/content/share.html" . }}
+    
         {{ partial "widgets/content/tags.html" . }}
     </div>
 </div>
