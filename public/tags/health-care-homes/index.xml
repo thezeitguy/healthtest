@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on HEALTHSquare</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on HEALTHSquare</description>
+    <title>Health Care Homes on HEALTHSquare</title>
+    <link>/tags/health-care-homes/</link>
+    <description>Recent content in Health Care Homes on HEALTHSquare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Sep 2016 00:03:14 +1000</lastBuildDate>
-    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>gatekeeper</title>
-      <link>/news/20160904/gatekeeper/</link>
-      <pubDate>Sun, 04 Sep 2016 00:03:14 +1000</pubDate>
-      
-      <guid>/news/20160904/gatekeeper/</guid>
-      <description>&lt;p&gt;GP Gatekeeper&lt;/p&gt;
-</description>
-    </item>
+    <lastBuildDate>Sat, 03 Sep 2016 22:44:05 +1000</lastBuildDate>
+    <atom:link href="/tags/health-care-homes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Briefing: Health Care Homes</title>
@@ -116,16 +106,6 @@ must reflect the fact that the provision of healthcare works differently in rura
 urban settings.&lt;br /&gt;
 &amp;laquo;A Health Care Homes approach to chronic care is something that RDAA has been calling for and strongly&lt;br /&gt;
 supports, but it must improve access to care for rural and remote Australians&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/news/10101/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/news/10101/</guid>
-      <description>&lt;p&gt;jkjk&lt;/p&gt;
 </description>
     </item>
     
