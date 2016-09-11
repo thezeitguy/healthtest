@@ -5,14 +5,10 @@
         {{ partial "navigation/navigation.html" . }}
         <div id="top" class="container">
             <div class="row" id="content-main">
-                <div class="col-md-8">
+                <div class="col-md-12">
                     {{ .Render "single.content" }}
+                    </br>
                     {{ partial "disqus.html" . }}
-                </div>
-                <div class="col-md-4">
-                    {{ partial "widgets/sidebar/search.html" . }}
-                    {{ partial "widgets/sidebar/recent.html" . }}
-                    {{ partial "widgets/sidebar/adsense.html" . }}
                 </div>
             </div>
         </div>
